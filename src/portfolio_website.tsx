@@ -331,7 +331,7 @@ export default function Portfolio() {
                 justifyContent: 'center',
                 fontSize: '8rem'
               }}>
-                👨‍💻
+                👩‍💻
               </div>
             </div>
             <div style={{
@@ -347,7 +347,7 @@ export default function Portfolio() {
               justifyContent: 'center',
               fontSize: '2rem'
             }}>
-              👨
+              👩‍🦰
             </div>
           </div>
         </div>
